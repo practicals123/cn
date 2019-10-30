@@ -1,9 +1,8 @@
 /*------------------------------------------------------------
 Assignment No:3(Group - A)
-NAME: Harsh B Maithia
+
 Write a program for detection using CRC.
-Roll NO: 01
-Batch:TE -1 DIVISION B
+
 -------------------------------------------------------------*/
                              
 #include <iostream>
