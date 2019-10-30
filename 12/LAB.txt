@@ -1,0 +1,9 @@
+Use Network Simulator NS2 to implement
+a. Monitoring traffic for the given topology
+b. Analysis of CSMA and Ethernet protocols
+c. Network Routing - shortest path routing, AODV
+d. Analysis of congestion control (TCP / UDP)
+
+
+
+

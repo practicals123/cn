@@ -1,0 +1,6 @@
+//input file tcp.txt
+Welcome to GESCOE
+R.H.Sapat college of Engineering
+Computer Network lab
+This is TCP FileTransfer Program
+
