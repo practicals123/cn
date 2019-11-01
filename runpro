@@ -1,0 +1,40 @@
+gescoe@gescoe-OptiPlex-3020:~/Desktop/ns-allinone-3.29/netanim-3.108$ cd ../
+gescoe@gescoe-OptiPlex-3020:~/Desktop/ns-allinone-3.29$ ls
+bake          constants.pyc  pybindgen-0.17.0.post58+ngcf00cc0  util.pyc
+build.py      netanim-3.108  README
+constants.py  ns-3.29        util.py
+gescoe@gescoe-OptiPlex-3020:~/Desktop/ns-allinone-3.29$ cd ns-3.29/
+gescoe@gescoe-OptiPlex-3020:~/Desktop/ns-allinone-3.29/ns-3.29$ ls
+AUTHORS       doc       RELEASE_NOTES  testpy.supp  waf        wutils.pyc
+bindings      examples  scratch        utils        waf.bat
+build         LICENSE   src            utils.py     waf-tools
+CHANGES.html  Makefile  test.py        utils.pyc    wscript
+contrib       README    testpy-output  VERSION      wutils.py
+gescoe@gescoe-OptiPlex-3020:~/Desktop/ns-allinone-3.29/ns-3.29$ ./waf --run scratch/first
+Waf: Entering directory `/home/gescoe/Desktop/ns-allinone-3.29/ns-3.29/build'
+[1909/1959] Compiling scratch/first.cc
+[1919/1959] Linking build/scratch/first
+Waf: Leaving directory `/home/gescoe/Desktop/ns-allinone-3.29/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (5.520s)
+At time 2s client sent 1024 bytes to 10.1.1.2 port 9
+At time 2.00369s server received 1024 bytes from 10.1.1.1 port 49153
+At time 2.00369s server sent 1024 bytes to 10.1.1.1 port 49153
+At time 2.00737s client received 1024 bytes from 10.1.1.2 port 9
+gescoe@gescoe-OptiPlex-3020:~/Desktop/ns-allinone-3.29/ns-3.29$ cd ..
+gescoe@gescoe-OptiPlex-3020:~/Desktop/ns-allinone-3.29$ cd netanim-3.108/
+gescoe@gescoe-OptiPlex-3020:~/Desktop/ns-allinone-3.29/netanim-3.108$ ./NetAnim Gtk-Message: 12:08:41.633: Failed to load module "canberra-gtk-module"
+
+
+
+
+
+
+Or ns 2 ke leye folder me jane kaa 
+1.ns wala main folder
+2. Uske under bhe ek ns wala folder hai
+3.uske under tcl folder hai
+4.uske under ex folder hai
+Or fir run karne kaa ( ns simple.tcl)
+
+
